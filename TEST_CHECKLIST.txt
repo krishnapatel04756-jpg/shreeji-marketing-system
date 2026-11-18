@@ -1,1 +1,28 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+SHREEJI MARKETING — HTTPS HOSTING ACCEPTANCE CHECKLIST
+
+[ ] GitHub Pages Settings use Deploy from a branch, main, /(root).
+[ ] Pages deployment succeeds in the repository Actions tab.
+[ ] Website opens at https://krishnapatel04756-jpg.github.io/shreeji-marketing-system/
+[ ] Browser address starts with https://, not file:// or localhost.
+[ ] Google OAuth Web Client has JavaScript origin https://krishnapatel04756-jpg.github.io
+[ ] Both intended Google accounts are OAuth test users if the consent screen is in Testing.
+[ ] Google Drive API is enabled.
+[ ] Google Drive scope permission has been reviewed and knowingly accepted.
+[ ] Computer 1 authorizes Drive and creates the Shreeji Marketing Data folder.
+[ ] Computer 1 completes Administrator and Staff account setup.
+[ ] Folder is shared only with the second authorized Google account as Editor.
+[ ] Computer 2 authorizes Drive, connects to the existing folder and signs in as Staff.
+[ ] New test design on Computer 1 appears after Sync Now on Computer 2.
+[ ] Stock-in and FIFO sale use correct batch quantities.
+[ ] GST and non-GST sales are included in combined sales.
+[ ] Partial and invoice-specific/general payments update balances correctly.
+[ ] Undamaged returns restore sellable stock; damaged stock never does.
+[ ] Damage deductions, low-stock alerts and audit history are correct.
+[ ] PDF reports can be downloaded/saved.
+[ ] Backup/export and restore have been tested.
+[ ] Privacy Notice and Terms of Use links open.
+[ ] No business data, backup files, client secrets, access tokens, or passwords are in this public repository.
+[ ] Staff permissions limitation is understood: Drive Editor access can modify files outside the app.
+[ ] Drive concurrency limitation is understood: only one computer performs stock-changing operations at a time.
+
+Do not use live business records until all applicable checks pass.
